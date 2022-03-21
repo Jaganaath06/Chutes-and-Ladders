@@ -63,7 +63,7 @@ cmt_ladders=[
 def rules():
     print('''
 Paramapatham --- Text-based-Snakes-and-Ladders-game-using-python
-Built by: Jaganaath 
+Made by: Jaganaath 
 
 Rules:
     1.Initially both will be at position 0
